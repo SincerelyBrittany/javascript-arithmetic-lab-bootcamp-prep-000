@@ -41,8 +41,8 @@ function makeInt(n){
   return num
 }
 
-function makeInt(n){
-  var num = parseInt(n,10);
+function preserveDecimal(n){
+  var num = parseFloat(n,10);
   return num
 }
 
