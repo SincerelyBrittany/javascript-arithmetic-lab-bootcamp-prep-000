@@ -24,7 +24,10 @@ function divide (a,b){
 }
 console.log(divide)
 
-
+function inc(n){
+  var inc = ++n;
+  return inc
+}
 
 
 
