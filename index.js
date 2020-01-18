@@ -37,7 +37,7 @@ function dec(n){
 console.log (dec(3));
 
 function makeInt(n){
-  var num = parseInt(n);
+  var num = parseInt(n,10);
   return num
 }
 console.log (dec(3));
