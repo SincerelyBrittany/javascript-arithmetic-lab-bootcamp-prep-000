@@ -23,3 +23,12 @@ function divide (a,b){
   return divide
 }
 console.log(divide)
+
+
+
+
+
+
+
+
+
