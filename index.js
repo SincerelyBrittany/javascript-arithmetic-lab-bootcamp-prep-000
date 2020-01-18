@@ -36,6 +36,12 @@ function dec(n){
 }
 console.log (dec(3));
 
+function dec(n){
+  var dec = --n;
+  return dec
+}
+console.log (dec(3));
+
 
 
 
