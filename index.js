@@ -36,9 +36,9 @@ function dec(n){
 }
 console.log (dec(3));
 
-function dec(n){
-  var dec = --n;
-  return dec
+function makeInt(n){
+  var num = parseInt(n);
+  return num
 }
 console.log (dec(3));
 
