@@ -15,3 +15,11 @@ function multiply (a,b){
   return multiply
 }
 console.log(multiply)
+
+divide
+
+function divide (a,b){
+  var divide = a/b;
+  return divide
+}
+console.log(divide)
