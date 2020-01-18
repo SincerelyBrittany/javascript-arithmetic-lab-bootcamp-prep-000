@@ -30,6 +30,12 @@ function inc(n){
 }
 console.log (inc(3));
 
+function dec(n){
+  var dec = --n;
+  return dec
+}
+console.log (dec(3));
+
 
 
 
